@@ -1,14 +1,8 @@
-streamlit               ==  1.40.1
-seaborn          ==         0.13.2            
-selenium          ==        4.36.0
-setuptools       ==         75.1.0
-scipy            ==         1.13.1
-requests          ==        2.31.0 
-pip               ==        25.3 
-plotly           ==         5.24.1
-pillow          ==          11.0.0             
-pip              ==         25.3 
-pandas            ==       2.2.3   
-numpy            ==         2.0.2  
-dotenv           ==         0.9.9
-webdriver-manager  
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.17.0
+supabase>=2.0.0
+python-dotenv>=1.0.0
+pytz>=2023.3
+schedule>=1.2.0
